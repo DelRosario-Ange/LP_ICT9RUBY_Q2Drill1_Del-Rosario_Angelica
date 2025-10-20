@@ -1,0 +1,9 @@
+body{background-color: #407e82; }
+
+.container-fluid{ background-color: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);}
+
